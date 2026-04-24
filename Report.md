@@ -94,7 +94,7 @@ This indicates an optimal balance where:
 
 ## Gate Distribution Visualization
 
-![Gate Distribution](combined_gate_distribution.png)
+![Gate Distribution](Graph.jpeg)
 
 ### Interpretation
 
